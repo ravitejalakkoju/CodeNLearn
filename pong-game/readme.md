@@ -1,2 +1,2 @@
-<h1>Simple pong game<sup>- by Chris Courses</sup></h1>
+<h1>Simple pong game<sub>- by Chris Courses</sub></h1>
 
