@@ -1,1 +1,1 @@
-<h1>The simple pong game</h1>
+<h1>Simple pong game</h1>
