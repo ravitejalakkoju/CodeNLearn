@@ -11,3 +11,6 @@ Two classes,
 </ol>
 
 using a simple functionality of animate with <strong>requestAnimationFrame()</strong>
+
+![image](https://user-images.githubusercontent.com/48471743/188304346-e7b5d720-34de-420f-b4c6-0002dce27083.png)
+
